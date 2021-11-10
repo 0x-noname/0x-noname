@@ -5,7 +5,7 @@
 - <img src="https://img.icons8.com/color/24/000000/linux--v1.png"/> I’m looking to collaborate on GNU-Linux community
 - <img src="https://img.icons8.com/color-glass/24/000000/email.png"/> How to reach me 0x-noname@protonmail.com
 - <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="noname" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/0xnoname"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0xnoname" /></a></p><br><br>
 
 <!---
 0x-noname/0x-noname is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

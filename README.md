@@ -1,4 +1,5 @@
 ![alt text](https://raw.githubusercontent.com/0x-noname/0x-noname/main/bbash.png)
+![alt text](https://raw.githubusercontent.com/0x-noname/0x-noname/main/rdme.gif)
 <h1 align="center">Hi 👋, I'm noname</h1>
 <h3 align="center">Offensive and defensive cybersecurity enthusiast</h3>
 

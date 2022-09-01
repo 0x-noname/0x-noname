@@ -3,11 +3,7 @@
 <h3 align="center">Offensive and defensive cybersecurity enthusiast</h3>
 
 - 🔭 I’m currently working on **IT Technician**
-
 - 🌱 I’m currently learning **eJPT**
-
-- 🤝 I’m looking for help with **on GNU-Linux community**
-
 - 📫 How to reach me **0x-noname@protonmail.com**
 
 <h3 align="left">Languages:</h3>
